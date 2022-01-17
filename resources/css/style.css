@@ -30,3 +30,11 @@ body {
     font-size: 16px;
     color: Aquamarine;
 }
+
+/* FOOTER */
+
+.footer--copyright {
+    font-size: 21px;
+    color: grey;
+    text-align: right
+}
